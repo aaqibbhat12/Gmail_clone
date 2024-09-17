@@ -1,0 +1,35 @@
+.leftdiv {
+  width: 200px;
+  height: 100vh;
+  background-color: #f6f8fc;
+  display: float;
+}
+.button {
+  margin-top: 15px;
+  margin-left: 20px;
+  background-color: #c2e7ff;
+  width: 125px;
+  height: 50px;
+  border-radius: 25px;
+  border: none;
+}
+ul {
+  margin-left: 30px;
+  margin-top: 20px;
+}
+li {
+  list-style: none;
+  padding: 5px;
+}
+.img img {
+  width: 20px;
+  height: 20px;
+  background-color: transparent;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.img b {
+  font-size: 20px;
+  font-weight: 900;
+  padding-left: 10px;
+}

@@ -1,0 +1,29 @@
+.rightdiv {
+  position: absolute;
+  top: 0;
+  left: 250px;
+  width: 78%;
+  height: 300px;
+}
+.rightdiv input {
+  width: 500px;
+  height: 50px;
+  border-radius: 25px;
+  margin-top: 20px;
+  border: none;
+  background-color: #eaf1fb;
+  padding-left: 40px;
+}
+.searchdiv {
+  position: relative;
+  display: inline-block;
+}
+.imgsearch {
+  position: absolute;
+  top: 60%;
+  right: 470px;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  pointer-events: none;
+}
