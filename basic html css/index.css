@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  width: 200px;
+  height: 500px;
+}
+.custom-border {
+  border: 3px solid rgb(27, 26, 26);
+  border-radius: 10px;
+}
+.custom-width {
+  width: 200px;
+}
+.d-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.container {
+  margin-top: 10px;
+  padding: 20px;
+}
+
+.custom-border-bottom {
+  border-bottom: 3px solid transparent;
+}
+.custom-border-bottom:hover {
+  border-bottom: 3px solid red;
+}
+/* .nav-bar {
+  position: fixed;
+  top: 0;
+  transition: top 0.3s;
+  height: 50px;
+  width: 100%;
+  margin-bottom: 100px;
+} */

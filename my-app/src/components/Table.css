@@ -1,0 +1,43 @@
+.Table {
+  position: absolute;
+  top: 0;
+  margin-left: 250px;
+  margin-top: 110px;
+  width: 78%;
+  height: 100vh;
+  background-color: white;
+}
+.Table table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: white;
+}
+.Table th,
+.Table td {
+  padding: 5px;
+  padding-left: 100px;
+  text-align: center;
+  background-color: white;
+}
+.Table td {
+  padding-right: 20px;
+  border: none;
+  background-color: white;
+}
+/* 
+.Table th {
+  background-color: #f2f2f2;
+} */
+/* .Table td {
+  padding-left: 200px;
+  width: 10px;
+  padding-top: 20px;
+  border: 1px solid #ddd;
+} */
+
+/* .Table table thead tr {
+  padding-left: 50px;
+}
+.Table table thead tr td {
+  padding-left: 50px;
+} */
