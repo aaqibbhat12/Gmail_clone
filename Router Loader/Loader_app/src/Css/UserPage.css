@@ -1,0 +1,45 @@
+.main_div {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  padding-left: 46%;
+}
+
+.user_item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+.user_item p {
+  font: 0.4rem;
+}
+.user_name p {
+  font-size: 0.8rem;
+}
+
+.user_name {
+  font-size: 1.5em;
+  color: #333;
+}
+.user_maiden p {
+  font-size: 0.8rem;
+}
+.last_name .user_maiden {
+  font-size: 1.2em;
+  color: #555;
+}
+.user_last p {
+  font-size: 0.8rem;
+}
+
+.user_last {
+  font-size: 1em;
+  color: #777;
+}
+ul {
+  list-style: none;
+}
